@@ -21,3 +21,6 @@
 .tabs .btn-solution:hover{
     background-color: #43abff;   
 }
+.services .icon-box{
+    min-height: 120px;
+}

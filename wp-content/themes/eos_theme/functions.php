@@ -18,8 +18,22 @@ add_filter('login_redirect', 'admin_default_page');
 function tf_wp_admin_login_logo()
 { ?>
   <style type="text/css">
+    body.login{
+      background-image: url('<?php echo SITEPATH; ?>assets/img/slide/slide-1.jpg');
+    }
+    #login{
+      margin-top: 100px !important;
+      background-color: #fff;
+      padding: 0% 0 0 !important;
+      padding: 20px !important;
+      box-shadow: 0 0 15px rgb(0,0,0,0.8) !important;
+      border-radius: 5px;
+    }
     #login h1 a {
       background-image: url('<?php echo SITEPATH; ?>assets/img/logo.png');
+      background-size: 150px;
+      width: 150px;
+      height: 60px;
     }
 
     #login .galogin-powered {

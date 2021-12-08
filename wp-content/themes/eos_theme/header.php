@@ -59,8 +59,9 @@
 				<div id="google_translate_element" class="google-translate"></div>
 			</div>
 			<div class="col-md-4 social-links">
-				<a href="#"><i class="bx bxl-facebook"></i></a>
-				<a href="#"><i class="bx bxl-instagram"></i></a>
+				<a title="Facebook" href="#" target="_blank"><i class="bx bxl-facebook"></i></a>
+				<a title="Instagram" href="#" target="_blank"><i class="bx bxl-instagram"></i></a>
+				<a title="Login" href="/wp-admin"><i class="bx bx-user"></i></a>
 			</div>
 		</div>
 	</div>
@@ -75,29 +76,18 @@
 				<ul>
 					<li><a class="nav-link scrollto active" href="/#hero">Home</a></li>
 					<li><a class="nav-link scrollto" href="/#about">Sobre</a></li>
-					<li><a class="nav-link scrollto" href="/#tabs">Soluções</a></li>
+					<li class="dropdown"><a href="/#solutions"><span>Soluções</span> <i class="bi bi-chevron-down"></i></a>
+						<ul>
+							<li><a href="/netuno">NETUNO</a></li>							
+							<li><a href="/agillis">AGILLIS</a></li>
+							<li><a href="/nautillus-servicos">NAUTILUS SERVIÇOS</a></li>
+							<li><a href="/nautillus-ambiental">NAUTILUS AMBIENTAL</a></li>
+						</ul>
+					</li>
 					<li><a class="nav-link scrollto" href="/#services">Serviços</a></li>
 					<li><a class="nav-link scrollto " href="/#portfolio">Portfolio</a></li>
 					<li><a class="nav-link scrollto" href="/#team">Equipe</a></li>
 					<li><a href="blog.html">Blog</a></li>
-					<!--<li class="dropdown"><a href="/#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-						<ul>
-							<li><a href="/#">Drop Down 1</a></li>
-							<li class="dropdown"><a href="/#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-								<ul>
-									<li><a href="/#">Deep Drop Down 1</a></li>
-									<li><a href="/#">Deep Drop Down 2</a></li>
-									<li><a href="/#">Deep Drop Down 3</a></li>
-									<li><a href="/#">Deep Drop Down 4</a></li>
-									<li><a href="/#">Deep Drop Down 5</a></li>
-								</ul>
-							</li>
-							<li><a href="/#">Drop Down 2</a></li>
-							<li><a href="/#">Drop Down 3</a></li>
-							<li><a href="/#">Drop Down 4</a></li>
-						</ul>
-					</li>
-					<li><a class="nav-link scrollto" href="/#contact">Contato</a></li>-->
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->
