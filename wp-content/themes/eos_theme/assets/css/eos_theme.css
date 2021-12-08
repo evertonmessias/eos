@@ -1,7 +1,23 @@
 /**
 * Template EOS
 */
-
-.counts .portent{
-    float: right;
+.error404 h1, .tabs .fst-italic{
+    text-align: center;
+}
+.text-align-justify{
+    text-align: justify;
+}
+.tabs .btn-solution{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    background-color: #1b8ae5;
+    color: #fff;
+    font-weight: 700;
+}
+.tabs .btn-solution:hover{
+    background-color: #43abff;   
 }

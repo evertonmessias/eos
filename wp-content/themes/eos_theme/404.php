@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <main id="main">
-    <div class="container" data-aos="zoom-in">
+    <div class="container error404" data-aos="zoom-in">
         <h1>&nbsp;</h1>
         <h1>&nbsp;</h1>
         <h1>&nbsp;</h1>

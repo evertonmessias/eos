@@ -106,35 +106,34 @@
 			<div class="row no-gutters">
 				<div class="content col-xl-5 d-flex align-items-stretch">
 					<div class="content">
-						<h3>Voluptatem dignissimos provident quasi</h3>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-						</p>
-						<a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a>
+						<h3>Quem somos</h3>
+						<p class="text-align-justify">A EOS Organização e Sistemas Ltda. é uma empresa especializada em desenvolvimento de software de gestão. Estamos no mercado desde 1997 e atuamos nos segmentos de Saneamento Básico e Meio Ambiente. Nossos diretores possuem 30 anos de experiência na área de saneamento básico. Participamos de inúmeros projetos de desenvolvimento e implantação de sistemas. Possuímos vasta experiência e qualidade no suporte a clientes e na prestação de serviços.</p>
+						<p class="text-align-justify">Somos uma empresa madura e preparada para atender os grandes desafios. Aliás, desafios nos motiva. Nos conduz a produzir conhecimento, a estudar cases e a fazer diferença para os nossos clientes.</p>
+						<p class="text-align-justify">Contamos com especialistas em diversas áreas. Estamos preparados para transformar conhecimento em resultados. Somos reconhecidos nacionalmente pela qualidade, agilidade e estabilidade de nossas soluções. Estamos presentes em mais de 120 cidades em todo o Brasil.</p>
 					</div>
 				</div>
 				<div class="col-xl-7 d-flex align-items-stretch">
 					<div class="icon-boxes d-flex flex-column justify-content-center">
 						<div class="row">
 							<div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-								<i class="bx bx-receipt"></i>
-								<h4>Corporis voluptates sit</h4>
-								<p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+								<i class="bx bx-target-lock"></i>
+								<h4>Missão</h4>
+								<p class="text-align-justify">Oferecer, de forma sustentável, soluções de softwares e serviços eficazes, seguros e rentáveis, que melhorem os resultados de nossos clientes. Ser reconhecida no mercado pela excelência e inovação.</p>
 							</div>
 							<div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-								<i class="bx bx-cube-alt"></i>
-								<h4>Ullamco laboris nisi</h4>
-								<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+								<i class="bx bxs-group"></i>
+								<h4>Ética</h4>
+								<p class="text-align-justify">Honestidade e confiança. Relações de trabalho são como relações pessoais, precisam ser baseadas em pilares fortes. Não seriamos nada sem a confiança de nossos parceiros e clientes, e só adquirimos essa relação com muita honestidade e seriedade no trabalho.</p>
 							</div>
 							<div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-								<i class="bx bx-images"></i>
-								<h4>Labore consequatur</h4>
-								<p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+								<i class="bx bx-archive"></i>
+								<h4>Organização</h4>
+								<p class="text-align-justify">Temos compromisso com a melhoria e foco nos clientes. Trabalhamos incessantemente para encontrar sempre as melhores práticas de trabalho, gerando os melhores resultados para os nossos clientes.</p>
 							</div>
 							<div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-								<i class="bx bx-shield"></i>
-								<h4>Beatae veritatis</h4>
-								<p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+								<i class="bx bx-happy"></i>
+								<h4>Simplicidade</h4>
+								<p class="text-align-justify">Agir simples para agir certo. O foco na produtividade, velocidade e qualidade são garantias de trabalho bem feito. Portanto, acima de qualquer coisa, foco nas ações corretas, é assim que trabalhamos.</p>
 							</div>
 						</div>
 					</div><!-- End .content-->
@@ -157,25 +156,28 @@
 
 				<div class="col-lg-4 col-md-6">
 					<div class="count-box">
-						<i class="bi bi-emoji-smile"></i>
+						<i class="bi bi-eye"></i>
 						<span data-purecounter-start="0" data-purecounter-end="34" data-purecounter-duration="2" class="purecounter"></span><span class="porcent"> %</span>
-						<p>Happy Clients</p>
+						<h5>VISIBILIDADE</h5>
+						<p>34% das maiores cidades do país não tem domínio das informações do seu sistema de saneamento básico.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6 mt-5 mt-md-0">
 					<div class="count-box">
-						<i class="bi bi-journal-richtext"></i>
+						<i class="bi bi-graph-up"></i>
 						<span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="2" class="purecounter"></span><span class="porcent"> %</span>
-						<p>Projects</p>
+						<h5>PRODUTIVIDADE</h5>
+						<p>20% do tempo das equipes de campo é desperdiçado por falta de informações corretas sobre usuários.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
 					<div class="count-box">
-						<i class="bi bi-headset"></i>
+						<i class="bi bi-x-octagon"></i>
 						<span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="2" class="purecounter"></span><span class="porcent"> %</span>
-						<p>Hours Of Support</p>
+						<h5>INADIMPLÊNCIA</h5>
+						<p>15% de inadimplência no setor de saneamento básico em 2015. E os números crescem.</p>
 					</div>
 				</div>
 
@@ -186,31 +188,37 @@
 
 	<!-- ======= Tabs Section ======= -->
 	<section id="tabs" class="tabs">
+
 		<div class="container" data-aos="fade-up">
+
+			<div class="section-title">
+				<h2>SOLUÇÕES</h2>
+				<br>
+			</div>
 
 			<ul class="nav nav-tabs row d-flex">
 				<li class="nav-item col-3">
 					<a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
 						<i class="ri-gps-line"></i>
-						<h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+						<h4 class="d-none d-lg-block">NETUNO</h4>
 					</a>
 				</li>
 				<li class="nav-item col-3">
 					<a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
 						<i class="ri-body-scan-line"></i>
-						<h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+						<h4 class="d-none d-lg-block">AGILLIS</h4>
 					</a>
 				</li>
 				<li class="nav-item col-3">
 					<a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
 						<i class="ri-sun-line"></i>
-						<h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+						<h4 class="d-none d-lg-block">NAUTILUS SERVIÇOS</h4>
 					</a>
 				</li>
 				<li class="nav-item col-3">
 					<a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
 						<i class="ri-store-line"></i>
-						<h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+						<h4 class="d-none d-lg-block">NAUTILUS AMBIENTAL</h4>
 					</a>
 				</li>
 			</ul>
@@ -219,97 +227,76 @@
 				<div class="tab-pane active show" id="tab-1">
 					<div class="row">
 						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-							<h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+							<div class="section-title"><br>
+								<h2>NETUNO</h2>	
+							</div>
 							<p class="fst-italic">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-								magna aliqua.
+								GESTÃO COMERCIAL COMPLETA PARA EMPRESAS DE SANEAMENTO BÁSICO
 							</p>
-							<ul>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-								<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-							</ul>
-							<p>
-								Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-								velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-								culpa qui officia deserunt mollit anim id est laborum
+							<p class="text-align-justify">
+							Sotware de Gestão Comercial para Empresas de Saneamento Básico. Agrega a robustez de um sistema de grande porte, além de atender a todos os requisitos exigidos pelas concessionárias de água e esgoto.
 							</p>
+							<br><a href="/netuno" class="btn-solution">Leia Mais</a>
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-							<img src="<?php echo SITEPATH; ?>assets/img/tabs-1.jpg" alt="" class="img-fluid">
+							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-2.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
 				</div>
 				<div class="tab-pane" id="tab-2">
 					<div class="row">
-						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-							<h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
-							<p>
-								Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-								velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-								culpa qui officia deserunt mollit anim id est laborum
-							</p>
+						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">						
+							<div class="section-title"><br>
+								<h2>AGILLIS</h2>	
+							</div>
 							<p class="fst-italic">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-								magna aliqua.
+							LEITURA, FATURAMENTO, IMPRESSÃO E ENTREGA SIMULTÂNEA DE CONTAS
 							</p>
-							<ul>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-								<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-								<li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-							</ul>
+							<p class="text-align-justify">
+							O software permite a programação e distribuição de servicos de leitura de hidrômetros em campo através de comunicação 3G ou WiFi e localização geográfica por GPS. Além de emitir relatórios completos de controle.
+							</p>
+							<br><a href="/agillis" class="btn-solution">Leia Mais</a>						
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center">
-							<img src="<?php echo SITEPATH; ?>assets/img/tabs-2.jpg" alt="" class="img-fluid">
+							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-3.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
 				</div>
 				<div class="tab-pane" id="tab-3">
 					<div class="row">
 						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-							<h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
-							<p>
-								Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-								velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-								culpa qui officia deserunt mollit anim id est laborum
-							</p>
-							<ul>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-								<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-								<li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-							</ul>
+							<div class="section-title"><br>
+								<h2>NAUTILUS SERVIÇOS</h2>	
+							</div>
 							<p class="fst-italic">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-								magna aliqua.
+							GESTÃO DE SERVIÇOS DE CAMPO
+							</p>						
+							<p class="text-align-justify">
+							Sotware de gestão de serviços on-line que dá modernidade aos controles e garante maior produtividade às equipes de campo
 							</p>
+							<br><a href="/nautilus-servicos" class="btn-solution">Leia Mais</a>
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center">
-							<img src="<?php echo SITEPATH; ?>assets/img/tabs-3.jpg" alt="" class="img-fluid">
+							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-4.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
 				</div>
 				<div class="tab-pane" id="tab-4">
 					<div class="row">
-						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-							<h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
-							<p>
-								Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-								velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-								culpa qui officia deserunt mollit anim id est laborum
-							</p>
+						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">							
+							<div class="section-title"><br>
+								<h2>NAUTILUS AMBIENTAL</h2>	
+							</div>
 							<p class="fst-italic">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-								magna aliqua.
+							GESTÃO DE PROCESSOS DE LICENCIAMENTO AMBIENTAL
 							</p>
-							<ul>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-								<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-								<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-							</ul>
+							<p class="text-align-justify">
+							Software de gestão ambiental que controla e agiliza, com total segurança, a obtenção de licenças ambientais
+							</p>
+							<br><a href="/nautilus-ambiental" class="btn-solution">Leia Mais</a>					
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center">
-							<img src="<?php echo SITEPATH; ?>assets/img/tabs-4.jpg" alt="" class="img-fluid">
+							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-5.jpg" alt="" class="img-fluid">
 						</div>
 					</div>
 				</div>

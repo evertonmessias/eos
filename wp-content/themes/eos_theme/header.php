@@ -14,7 +14,7 @@
 	<link href="<?php echo SITEPATH; ?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
 	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
 
 	<!-- Vendor CSS Files -->
 	<link href="<?php echo SITEPATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
@@ -96,12 +96,12 @@
 							<li><a href="/#">Drop Down 3</a></li>
 							<li><a href="/#">Drop Down 4</a></li>
 						</ul>
-					</li>-->
-					<li><a class="nav-link scrollto" href="/#contact">Contato</a></li>
+					</li>
+					<li><a class="nav-link scrollto" href="/#contact">Contato</a></li>-->
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->
 
-			<a href="/#about" class="get-started-btn scrollto">Get Started</a>
+			<a href="/#contact" class="get-started-btn scrollto">Contato</a>
 		</div>
 	</header><!-- End Header -->
