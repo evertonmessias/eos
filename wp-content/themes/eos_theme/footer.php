@@ -6,7 +6,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Presento<span>.</span></h3>
+            <h3>EOS<span>.</span></h3>
             <p>
               A108 Adam Street <br>
               New York, NY 535022<br>
@@ -54,14 +54,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Presento</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>B2S Marketing</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/presento-bootstrap-corporate-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="https://b2s.marketing/">B2S Marketing</a>
         </div>
       </div>
       <div class="social-links text-center text-md-end pt-3 pt-md-0">
