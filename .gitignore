@@ -10,3 +10,6 @@ wp-content/*
 
 # ignore wp-config.php
 wp-config.php
+
+# ignore files:
+wp-content/themes/eos_theme/assets/img/slide/home-1.webm
