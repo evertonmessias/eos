@@ -9,7 +9,13 @@
 		<div class="carousel-inner" role="listbox">
 
 			<!-- Slide 1 -->
-			<div class="carousel-item active" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-1.jpg)">
+			<div class="carousel-item active">
+				<video autoplay muted loop class="vdesk">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1.webm" type="video/webm">
+				</video>
+				<!--<video autoplay muted loop class="vmobi">
+					<source src="<?php //echo SITEPATH; ?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+				</video>-->
 				<div class="carousel-container">
 					<div class="container">
 						<h2 class="animate__animated animate__fadeInDown">SIMPLIFIQUE A GESTÃO<br> COMERCIAL DA SUA EMPRESA</h2>
@@ -19,59 +25,15 @@
 				</div>
 			</div>
 
-			<!-- Slide 2 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-2.jpg)">
-				<div class="carousel-container">
-					<div class="container">
-						<h2 class="animate__animated animate__fadeInDown">FAÇA A GESTÃO COMERCIAL DA SUA<br> CONCESSIONÁRIA DE ÁGUA E ESGOTO</h2>
-						<p class="animate__animated animate__fadeInUp">Módulo completo com todas as funcionalidades para uma gestão eficaz de sua concessionária.</p>
-						<a href="/#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Leia Mais</a>
-					</div>
-				</div>
-			</div>
-
-			<!-- Slide 3 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-3.jpg)">
-				<div class="carousel-container">
-					<div class="container">
-						<h2 class="animate__animated animate__fadeInDown">TECNOLOGIA E SIMPLICIDADE NA<br> OBTENÇÃO DE CONSUMO DE ÁGUA</h2>
-						<p class="animate__animated animate__fadeInUp">Ferramenta completa para leitura, faturamento, impressão e entrega simultânea de contas.</p>
-						<a href="/#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Leia Mais</a>
-					</div>
-				</div>
-			</div>
-
-			<!-- Slide 4 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-4.jpg)">
-				<div class="carousel-container">
-					<div class="container">
-						<h2 class="animate__animated animate__fadeInDown">MAIOR CONTROLE SOBRE SEUS<br> SERVIÇOS DE CAMPO</h2>
-						<p class="animate__animated animate__fadeInUp">Todas as ferramentas necessárias para aumentar a eficácia de sua equipe de campo.</p>
-						<a href="/#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Leia Mais</a>
-					</div>
-				</div>
-			</div>
-
-			<!-- Slide 5 -->
-			<div class="carousel-item" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/slide-5.jpg)">
-				<div class="carousel-container">
-					<div class="container">
-						<h2 class="animate__animated animate__fadeInDown">AGILIZE A OBTENÇÃO DE<br> LICENCIAMENTO AMBIENTAL</h2>
-						<p class="animate__animated animate__fadeInUp">Tudo que você precisa para agilizar a obtenção de licenças ambientais em um só lugar.</p>
-						<a href="/#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Leia Mais</a>
-					</div>
-				</div>
-			</div>
-
 		</div>
 
-		<a class="carousel-control-prev" href="/#heroCarousel" role="button" data-bs-slide="prev">
+		<!--<a class="carousel-control-prev" href="/#heroCarousel" role="button" data-bs-slide="prev">
 			<span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
 		</a>
 
 		<a class="carousel-control-next" href="/#heroCarousel" role="button" data-bs-slide="next">
 			<span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-		</a>
+		</a>-->
 
 	</div>
 </section><!-- End Hero -->
@@ -146,11 +108,11 @@
 	<!-- ======= Counts Section ======= -->
 	<section id="counts" class="counts">
 		<div class="container" data-aos="fade-up">
-		
+
 			<div class="section-title">
 				<h2>TEMOS QUASE 30 ANOS DE EXPERIÊNCIA. ACREDITE,<br>CONHECEMOS OS PROBLEMAS QUE VOCÊS ENFRENTAM</h2>
 				<br>
-			</div>			
+			</div>
 
 			<div class="row">
 
@@ -228,13 +190,13 @@
 					<div class="row">
 						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
 							<div class="section-title"><br>
-								<h2>NETUNO</h2>	
+								<h2>NETUNO</h2>
 							</div>
 							<p class="fst-italic">
 								GESTÃO COMERCIAL COMPLETA PARA EMPRESAS DE SANEAMENTO BÁSICO
 							</p>
 							<p class="text-align-justify">
-							Sotware de Gestão Comercial para Empresas de Saneamento Básico. Agrega a robustez de um sistema de grande porte, além de atender a todos os requisitos exigidos pelas concessionárias de água e esgoto.
+								Sotware de Gestão Comercial para Empresas de Saneamento Básico. Agrega a robustez de um sistema de grande porte, além de atender a todos os requisitos exigidos pelas concessionárias de água e esgoto.
 							</p>
 							<br><a href="/netuno" class="btn-solution">Leia Mais</a>
 						</div>
@@ -245,17 +207,17 @@
 				</div>
 				<div class="tab-pane" id="tab-2">
 					<div class="row">
-						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">						
+						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
 							<div class="section-title"><br>
-								<h2>AGILLIS</h2>	
+								<h2>AGILLIS</h2>
 							</div>
 							<p class="fst-italic">
-							LEITURA, FATURAMENTO, IMPRESSÃO E ENTREGA SIMULTÂNEA DE CONTAS
+								LEITURA, FATURAMENTO, IMPRESSÃO E ENTREGA SIMULTÂNEA DE CONTAS
 							</p>
 							<p class="text-align-justify">
-							O software permite a programação e distribuição de servicos de leitura de hidrômetros em campo através de comunicação 3G ou WiFi e localização geográfica por GPS. Além de emitir relatórios completos de controle.
+								O software permite a programação e distribuição de servicos de leitura de hidrômetros em campo através de comunicação 3G ou WiFi e localização geográfica por GPS. Além de emitir relatórios completos de controle.
 							</p>
-							<br><a href="/agillis" class="btn-solution">Leia Mais</a>						
+							<br><a href="/agillis" class="btn-solution">Leia Mais</a>
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center">
 							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-3.jpg" alt="" class="img-fluid">
@@ -266,13 +228,13 @@
 					<div class="row">
 						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
 							<div class="section-title"><br>
-								<h2>NAUTILUS SERVIÇOS</h2>	
+								<h2>NAUTILUS SERVIÇOS</h2>
 							</div>
 							<p class="fst-italic">
-							GESTÃO DE SERVIÇOS DE CAMPO
-							</p>						
+								GESTÃO DE SERVIÇOS DE CAMPO
+							</p>
 							<p class="text-align-justify">
-							Sotware de gestão de serviços on-line que dá modernidade aos controles e garante maior produtividade às equipes de campo
+								Sotware de gestão de serviços on-line que dá modernidade aos controles e garante maior produtividade às equipes de campo
 							</p>
 							<br><a href="/nautilus-servicos" class="btn-solution">Leia Mais</a>
 						</div>
@@ -283,17 +245,17 @@
 				</div>
 				<div class="tab-pane" id="tab-4">
 					<div class="row">
-						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">							
+						<div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
 							<div class="section-title"><br>
-								<h2>NAUTILUS AMBIENTAL</h2>	
+								<h2>NAUTILUS AMBIENTAL</h2>
 							</div>
 							<p class="fst-italic">
-							GESTÃO DE PROCESSOS DE LICENCIAMENTO AMBIENTAL
+								GESTÃO DE PROCESSOS DE LICENCIAMENTO AMBIENTAL
 							</p>
 							<p class="text-align-justify">
-							Software de gestão ambiental que controla e agiliza, com total segurança, a obtenção de licenças ambientais
+								Software de gestão ambiental que controla e agiliza, com total segurança, a obtenção de licenças ambientais
 							</p>
-							<br><a href="/nautilus-ambiental" class="btn-solution">Leia Mais</a>					
+							<br><a href="/nautilus-ambiental" class="btn-solution">Leia Mais</a>
 						</div>
 						<div class="col-lg-6 order-1 order-lg-2 text-center">
 							<img src="<?php echo SITEPATH; ?>assets/img/slide/slide-5.jpg" alt="" class="img-fluid">
@@ -508,53 +470,53 @@
 		</div>
 	</section> End Portfolio Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
+	<!-- ======= Contact Section ======= -->
+	<section id="contact" class="contact">
+		<div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Contato</h2>
-        </div>    
+			<div class="section-title">
+				<h2>Contato</h2>
+			</div>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
+			<div class="row" data-aos="fade-up" data-aos-delay="100">
 
-          <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14719.3188819965!2d-47.2968343!3d-22.7345696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x65551010c1d0067b!2sB2S%20Marketing%20Digital%20Americana!5e0!3m2!1spt-BR!2sbr!4v1639139153542!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" frameborder="0" style="border:0; width: 100%; height: 465px;" allowfullscreen></iframe>
-          </div>
+				<div class="col-lg-6 ">
+					<iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14719.3188819965!2d-47.2968343!3d-22.7345696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x65551010c1d0067b!2sB2S%20Marketing%20Digital%20Americana!5e0!3m2!1spt-BR!2sbr!4v1639139153542!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" frameborder="0" style="border:0; width: 100%; height: 465px;" allowfullscreen></iframe>
+				</div>
 
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="E-mail" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensagem"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
+				<div class="col-lg-6">
+					<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+						<div class="form-row">
+							<div class="col form-group">
+								<input type="text" name="name" class="form-control" id="name" placeholder="Nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+								<div class="validate"></div>
+							</div>
+							<div class="col form-group">
+								<input type="email" class="form-control" name="email" id="email" placeholder="E-mail" data-rule="email" data-msg="Please enter a valid email" />
+								<div class="validate"></div>
+							</div>
+						</div>
+						<div class="form-group">
+							<input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+							<div class="validate"></div>
+						</div>
+						<div class="form-group">
+							<textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensagem"></textarea>
+							<div class="validate"></div>
+						</div>
+						<div class="mb-3">
+							<div class="loading">Loading</div>
+							<div class="error-message"></div>
+							<div class="sent-message">Your message has been sent. Thank you!</div>
+						</div>
+						<div class="text-center"><button type="submit">Send Message</button></div>
+					</form>
+				</div>
 
-        </div>
+			</div>
 
-      </div>
-    </section><!-- End Contact Section -->
+		</div>
+	</section><!-- End Contact Section -->
 
 </main><!-- End #main -->
 <?php get_footer(); ?>

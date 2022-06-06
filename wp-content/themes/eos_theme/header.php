@@ -48,24 +48,6 @@
 
 <body>
 
-	<!-- ======= Top Bar ======= -->
-	<div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
-		<div class="container d-flex">
-			<div class="col-md-4 contact-info mr-auto">
-				<i class="icofont-envelope"></i> <a href="mailto:contato@eosconsultores.com.br">contato@eosconsultores.com.br</a>
-				<i class="icofont-phone"></i> (67) 3321-2898
-			</div>
-			<div class="col-md-4 google-language">
-				<div id="google_translate_element" class="google-translate"></div>
-			</div>
-			<div class="col-md-4 social-links">
-				<a title="Facebook" href="#" target="_blank"><i class="bx bxl-facebook"></i></a>
-				<a title="Instagram" href="#" target="_blank"><i class="bx bxl-instagram"></i></a>
-				<a title="Login" href="/wp-admin"><i class="bx bx-user"></i></a>
-			</div>
-		</div>
-	</div>
-
 	<!-- ======= Header ======= -->
 	<header id="header" class="fixed-top d-flex align-items-center">
 		<div class="container d-flex align-items-center">
