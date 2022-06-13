@@ -80,15 +80,15 @@
    * Toggle .header-scrolled class to #header when page is scrolled
    */
   let selectHeader = select('#header');
-  let selectTopbar = select('#topbar')
+  //let selectTopbar = select('#topbar')
   if (selectHeader) {
     const headerScrolled = () => {
       if (window.scrollY > 100) {
         selectHeader.classList.add('header-scrolled');
-        selectTopbar.classList.add('topbar-scrolled');
+        //selectTopbar.classList.add('topbar-scrolled');
       } else {
         selectHeader.classList.remove('header-scrolled');
-        selectTopbar.classList.remove('topbar-scrolled');
+        //selectTopbar.classList.remove('topbar-scrolled');
       }
     }
     window.addEventListener('load', headerScrolled)
@@ -193,6 +193,25 @@
       }
     }
   });
+
+
+    /**
+   * Skills animation
+   */
+     let skilsContent = select('.skills-content');
+     if (skilsContent) {
+       new Waypoint({
+         element: skilsContent,
+         offset: '80%',
+         handler: function(direction) {
+           let progress = select('.progress .progress-bar', true);
+           progress.forEach((el) => {
+             el.style.width = el.getAttribute('aria-valuenow') + '%'
+           });
+         }
+       })
+     }
+
 
   /**
    * Porfolio isotope and filter

@@ -11,19 +11,19 @@
 
 	<!-- Favicons -->
 	<link href="<?php echo SITEPATH; ?>assets/img/favicon.png" rel="icon">
-	<link href="<?php echo SITEPATH; ?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
 	<!-- Vendor CSS Files -->
-	<link href="<?php echo SITEPATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-	<link href="<?php echo SITEPATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
+	<link href="<?php echo SITEPATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">	
 	<link href="<?php echo SITEPATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+	<link href="<?php echo SITEPATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+	<link href="<?php echo SITEPATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
 	<!-- Template Main CSS File -->
@@ -52,22 +52,23 @@
 	<header id="header" class="fixed-top d-flex align-items-center">
 		<div class="container d-flex align-items-center">
 
-			<a href="/" class="logo me-auto"><img src="<?php echo SITEPATH; ?>assets/img/logo.png" alt=""></a>
+			<a href="/" class="logo me-auto"><img src="<?php echo SITEPATH; ?>assets/img/logo.png" title="EOS"></a>
 
 			<nav id="navbar" class="navbar order-last order-lg-0">
 				<ul>
-					<li><a class="nav-link scrollto active" href="/#hero">Home</a></li>
-					<li><a class="nav-link scrollto" href="/#about">Sobre</a></li>
+					<li><a class="nav-link scrollto active" href="/">Home</a></li>					
 					<li class="dropdown"><a href="/#solutions"><span>Soluções</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="/netuno">NETUNO</a></li>							
 							<li><a href="/agillis">AGILLIS</a></li>
-							<li><a href="/nautillus-servicos">NAUTILUS SERVIÇOS</a></li>
-							<li><a href="/nautillus-ambiental">NAUTILUS AMBIENTAL</a></li>
+							<li><a href="/nautillus">NAUTILUS</a></li>
+							<li><a href="/zapia">ZÁPIA</a></li>
+							<li><a href="/polis">PÓLIS</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link scrollto" href="/#services">Serviços</a></li>					
-					<li><a href="blog.html">Blog</a></li>
+					<li><a class="nav-link scrollto" href="/empresa">Empresa</a></li>
+					<li><a class="nav-link scrollto" href="/trabalhe">Trabalhe Conosco</a></li>
+					<li><a class="nav-link scrollto" href="/blog">Blog</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->

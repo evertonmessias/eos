@@ -23,7 +23,7 @@ function tf_wp_admin_login_logo()
     }
     #login{
       margin-top: 100px !important;
-      background-color: #fff;
+      background-color: #0c1031;
       padding: 0% 0 0 !important;
       padding: 20px !important;
       box-shadow: 0 0 15px rgb(0,0,0,0.8) !important;
@@ -64,10 +64,8 @@ add_filter('login_headertext', 'tf_wp_admin_login_logo_title');
 //************* Hide admin bar for users
 add_action('after_setup_theme', 'remove_admin_bar');
 function remove_admin_bar()
-{
-  if (current_user_can('administrator') || is_admin()) {
-    show_admin_bar(false);
-  }
+{  
+    //show_admin_bar(false);
 }
 
 //************* URL from breadcrumbs
@@ -105,13 +103,3 @@ function my_li_id_handler($id, $item, $args)
   return $id;
 }
 add_filter('nav_menu_item_id', 'my_li_id_handler', 10, 3);
-
-//************* Removes rich text editor
-//add_filter( 'user_can_richedit' , '__return_false');
-
-//************* Add custom action
-function mensagem()
-{
-    echo "OIIIIIIII"; 
-}
-add_action( 'mensagem', 'mensagem' );
