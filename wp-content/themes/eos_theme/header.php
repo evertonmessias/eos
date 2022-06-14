@@ -56,8 +56,8 @@
 
 			<nav id="navbar" class="navbar order-last order-lg-0">
 				<ul>
-					<li><a class="nav-link scrollto active" href="/">Home</a></li>					
-					<li class="dropdown"><a href="/#solutions"><span>Soluções</span> <i class="bi bi-chevron-down"></i></a>
+					<li><a class="nav-link scrollto" href="/<?php if(is_front_page()) echo "#hero"; ?>">Home</a></li>					
+					<li class="dropdown"><a class="nav-link scrollto <?php if(is_page('netuno') || is_page('agillis') || is_page('nautillus') || is_page('zapia') || is_page('polis')) echo "active"; ?>" href="/#solutions"><span>Soluções</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="/netuno">NETUNO</a></li>							
 							<li><a href="/agillis">AGILLIS</a></li>

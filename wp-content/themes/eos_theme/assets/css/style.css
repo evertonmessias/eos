@@ -659,10 +659,22 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #36D2B7;
 }
-.clients .swiper-slide img {
+
+.clients .swiper-slide{
+  width: 230px !important;
+  border: 2px solid #0c1031;
+  padding: 30px;
+  text-align: center;
+  height: 120px;
+  line-height: 50px;
+  border-radius: 30px;
+}
+
+.clients .swiper-slide img { 
   opacity: 0.5;
   transition: 0.3s;
-  filter: grayscale(100);
+  max-height: 60px;
+  /*filter: grayscale(100);*/
 }
 .clients .swiper-slide img:hover {
   opacity: 1;
