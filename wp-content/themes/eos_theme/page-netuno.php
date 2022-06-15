@@ -73,7 +73,7 @@
 
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 1 Section ======= -->
 	<section class="tabs section-bg dark1">
 		<div class="container" data-aos="fade-up">
 			<div class="row">
@@ -93,7 +93,7 @@
 
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 2 Section ======= -->
 	<section class="tabs section-bg light">
 		<img src="<?php echo SITEPATH; ?>assets/img/pages/laptop2.png" class="img-fluid" alt="">
 		<div class="container" data-aos="fade-up">
@@ -112,7 +112,7 @@
 	</section><!-- End Tabs Section -->
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 3 Section ======= -->
 	<section class="tabs section-bg detail">
 		<div class="container" data-aos="fade-up">
 
@@ -171,7 +171,7 @@
 	</section><!-- End Tabs Section -->
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 4 Section ======= -->
 	<section class="tabs section-bg dark2">
 	</section><!-- End Tabs Section -->
 

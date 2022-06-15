@@ -71,7 +71,7 @@
 
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 1 Section ======= -->
 	<section class="tabs section-bg adark1">
 		<div class="container" data-aos="fade-up">
 			<div class="row">
@@ -91,7 +91,7 @@
 
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 2 Section ======= -->
 	<section class="tabs section-bg alight">
 		<div class="container" data-aos="fade-up">
 			<div class="row">
@@ -110,23 +110,23 @@
 	</section><!-- End Tabs Section -->
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 3 Section ======= -->
 	<section class="tabs section-bg adetail">
 		<div class="container" data-aos="fade-up">
 
 			<div class="row">
 				<div class="col-lg-2"></div>
 				<div class="col-lg-4 col">
-					<i class="ri-home-line"></i><br><br><br>
-					<h4>Tecnologia Rebusta</h4>
+					<i class="ri-layout-2-line"></i><br><br><br>
+					<h4>Online ou Offline?</h4>
 					<hr class="barr"><br>
-					<p class="justify">Software confiável e estável, 30 anos de mercado, sendo regularmente evoluído para melhor atender nossos clientes. Desenvolvido em arquitetura de multicamadas e com processo ágil de implementação.</p>
+					<p class="justify">O Agillis pode trabalhar on-line ou off-line, de acordo com a demanda da concessionária ou da prestadora de serviço. Sua finalidade é ser ágil e preciso.</p>
 				</div>
 				<div class="col-lg-4 col">
-					<i class="ri-computer-line"></i><br><br><br>
-					<h4>Know How</h4>
+					<i class="ri-archive-line"></i><br><br><br>
+					<h4>Tecnologia</h4>
 					<hr class="barr"><br>
-					<p class="justify">Sabemos como e porque fazer, isso tonar a solução uma ferramenta especializada e inovadora, capaz de aumentar consideravelmente a eficácia dos processos.</p>
+					<p class="justify">O Software tem embarcado em seu código fonte, tecnologia e conhecimento de mais de 30 anos de atuação no mercado de saneamento básico.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -134,16 +134,16 @@
 			<div class="row">
 				<div class="col-lg-2"></div>
 				<div class="col-lg-4 col">
-					<i class="ri-archive-line"></i><br><br><br>
-					<h4>Gestão de Informação</h4>
+					<i class="ri-computer-line"></i><br><br><br>
+					<h4>Coletor, Smartphone ou PDA?</h4>
 					<hr class="barr"><br>
-					<p class="justify">Visibilidade de informações. Saiba com exatidão dados cruciais para o seu negócio. Dessa forma, planeje com mais assertividade e alcance maior performance.</p>
+					<p class="justify">Tanto faz! O Agillis pode ser utilizado em coletores de dados robustos, ou em smartphones e PDA’s. Também está homologado para as principais impressoras portáteis do mercado.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-calendar-check-fill"></i><br><br><br>
-					<h4>Informações Compartilhadas</h4>
+					<h4>Agilidade</h4>
 					<hr class="barr"><br>
-					<p class="justify">Compartilhe informações entre sua equipe de maneira rápida e automatizada. Reduzindo custos e simplificando os processos.</p>
+					<p class="justify">As rotas com os serviços (rol de leitura) são enviadas e executadas em tempo real ou remotamente. O leiturista tem acesso visual a toda a sua rota, possibilitando a escolha do melhor percurso no menor tempo.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -152,15 +152,15 @@
 				<div class="col-lg-2"></div>
 				<div class="col-lg-4 col">
 					<i class="ri-chat-3-line"></i><br><br><br>
-					<h4>Interações</h4>
+					<h4>Mais do que coleta de leitura</h4>
 					<hr class="barr"><br>
-					<p class="justify">Fácil integração a outros sistemas, por intermédio de componentes Web Service ou por rotinas desenvolvidas para este fim.</p>
+					<p class="justify">O Agillis age como um fiscal, apontando ocorrências, permitindo a tomada de ações preventivas e corretivas. Emissão de faturas de débitos, avisos em geral e  certidão anual de quitação de débitos também fazem parte das rotinas do software.</p>
 				</div>
 				<div class="col-lg-4 col">
-					<i class="ri-layout-2-line"></i><br><br><br>
-					<h4>100% costumizável</h4>
+					<i class="ri-home-line"></i><br><br><br>
+					<h4>Mobilidade</h4>
 					<hr class="barr"><br>
-					<p class="justify">Você pode personalizar o sistema com os relatórios e rotinas que mais se adequam ao seu uso. Aumentando assim sua produtividade e melhorando a usabilidade.</p>
+					<p class="justify">Gerenciamento on-line das equipes externas, facilitando a empresa mover-se para perto do cliente, diminuindogastos com deslocamentos, aumentando a eficiência  e fidelizando a marca.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -169,7 +169,7 @@
 	</section><!-- End Tabs Section -->
 
 
-	<!-- ======= Tabs Section ======= -->
+	<!-- ======= Tabs 4 Section ======= -->
 	<section class="tabs section-bg adark2">
 	</section><!-- End Tabs Section -->
 
