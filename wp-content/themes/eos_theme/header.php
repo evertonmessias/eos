@@ -61,7 +61,7 @@
 						<ul>
 							<li><a href="/netuno">NETUNO</a></li>							
 							<li><a href="/agillis">AGILLIS</a></li>
-							<li><a href="/nautillus">NAUTILUS</a></li>
+							<li><a href="/nautillus">NAUTILLUS</a></li>
 							<li><a href="/zapia">ZÁPIA</a></li>
 							<li><a href="/polis">PÓLIS</a></li>
 						</ul>
