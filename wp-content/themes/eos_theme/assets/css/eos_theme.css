@@ -232,6 +232,16 @@ hr.bar {
       }
 }
 
+.header-page{
+    background-color: #0c1031 !important;
+    height: 100px;
+
+}
+
+.post #page{
+    min-height: 500px;
+}
+
 .footer .logo-footer img{
     width: 15em;
 }

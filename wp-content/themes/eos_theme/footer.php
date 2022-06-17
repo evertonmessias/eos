@@ -12,10 +12,10 @@
           <div class="col-lg-2 footer-links">
             <h4>Navegue</h4><br>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre a empresa</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Trabalhe conosco</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Portal do cliente</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Blog EOS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/empresa">Sobre a empresa</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contato">Trabalhe conosco</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contato">Portal do cliente</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/blog">Blog EOS</a></li>
             </ul>
           </div>
 
@@ -33,9 +33,9 @@
           <div class="col-lg-2 footer-links">
             <h4>Contato</h4><br>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Agendar demonstração</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Fale com um especialista</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Solicitar orçamento</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contato">Agendar demonstração</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contato">Fale com um especialista</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contato">Solicitar orçamento</a></li>
             </ul>
           </div>
 

@@ -1,25 +1,40 @@
 <?php get_header(); ?>
-<h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1>
-<?php
+<main id="main" class="post" data-aos="fade-up">
+  <!-- ======= Breadcrumbs ======= -->
+  <section class="breadcrumbs">
+    <div class="container">
+      <div class="d-flex justify-content-between align-items-center">
+        <h2><?php the_title() ?></h2>
+        <ol>
+          <li><a href="/">home</a></li>
+          <li>
+            <?php
+            if (url_active()[2] == "") echo url_active()[1];
+            else echo "<a href='/" . url_active()[1] . "'>" . url_active()[1] . "</a>";
+            ?>
+          </li>
+          <!--<li>
+            <?php //if (url_active()[2] != "") echo url_active()[2]; 
+            ?>
+          </li>-->
+        </ol>
+      </div>
+    </div>
+  </section><!-- Breadcrumbs Section -->
 
-// PAGE
+		<!-- ======= Portfolio Details Section ======= -->
+    <section id="page" class="portfolio-details">
 
-if ( have_posts() ) :
+    <div class="container">
 
-   while ( have_posts() ) : the_post(); ?>
+      <div class="portfolio-description text-justify">
+        <?php the_content() ?>
+        <h1>&nbsp;</h1>
+      </div>
+      
+    </div>
 
-		<h2><a href="<?php the_permalink() ?>"><?php the_title() ?></a></h2>
+  </section><!-- End Portfolio Details Section -->
 
-<?php the_content() ?>
-
-<?php endwhile;
-
-else :
-
-   echo '<p>There are no posts!</p>';
-
-endif;
-
-?>
-<h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1><h1>&nbsp;</h1>
+</main><!-- End #main -->
 <?php get_footer(); ?>

@@ -62,11 +62,11 @@ add_filter('login_headertext', 'tf_wp_admin_login_logo_title');
 
 
 //************* Hide admin bar for users
-add_action('after_setup_theme', 'remove_admin_bar');
 function remove_admin_bar()
 {  
-    //show_admin_bar(false);
+    show_admin_bar(false);
 }
+add_action('after_setup_theme', 'remove_admin_bar');
 
 //************* URL from breadcrumbs
 function url_active()
@@ -103,3 +103,13 @@ function my_li_id_handler($id, $item, $args)
   return $id;
 }
 add_filter('nav_menu_item_id', 'my_li_id_handler', 10, 3);
+
+//***************PAGE SOLUTIONS */
+function is_page_solutions(){
+  if(is_page('netuno') || is_page('agillis') || is_page('nautillus') || is_page('zapia') || is_page('polis')){
+    return true;
+  }else{
+    return false;
+  }
+}
+add_action('is_page_solutions','is_page_solutions');
