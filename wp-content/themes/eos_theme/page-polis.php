@@ -49,16 +49,7 @@
 			<br><br>
 			<h2 class="center">Alguns dos nossos clientes:</h2>
 			<br><br>
-			<div class="clients-slider swiper">
-				<div class="swiper-wrapper align-items-center">
-					<div class="swiper-slide"><img src="<?php echo SITEPATH; ?>assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-					<div class="swiper-slide"><img src="<?php echo SITEPATH; ?>assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-					<div class="swiper-slide"><img src="<?php echo SITEPATH; ?>assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-					<div class="swiper-slide"><img src="<?php echo SITEPATH; ?>assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-				</div>
-				<div class="swiper-pagination"></div>
-			</div>
-
+			<?php clients_slider() ?>
 			<br><br>
 			<div class="section-title">
 				<h2>Tenha dados claros sobre o<br>consumo de sua empresa.</h2>

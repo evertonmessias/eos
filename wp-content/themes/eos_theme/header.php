@@ -49,7 +49,7 @@
 <body>
 
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center <?php if(!is_page_solutions() && !is_front_page())echo 'header-page' ?>">
+	<header id="header" class="fixed-top d-flex align-items-center <?php if(!is_page_php() && !is_page_solutions() && !is_front_page())echo 'header-page' ?>">
 		<div class="container d-flex align-items-center">
 
 			<a href="/" class="logo me-auto"><img src="<?php echo SITEPATH; ?>assets/img/logo.png" title="EOS"></a>

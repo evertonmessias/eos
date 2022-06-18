@@ -570,3 +570,30 @@ hr.bar {
     opacity: 1;
 }
 
+/*EMPRESA*/
+
+.tabs .blue{
+    background-color: #34A7E4;
+    color: #fff !important;
+    padding: 30px;
+    text-align: left !important;
+}
+
+.tabs .blue .section-title{
+    padding-left: 30px;
+    border-left: 1px solid #fff;
+}
+
+.tabs .blue h4{
+    text-align: left;
+}
+
+.tabs .text{
+    padding: 50px;
+}
+
+.tabs .img{
+    margin: 0;
+    padding: 0;
+}
+
