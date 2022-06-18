@@ -570,7 +570,7 @@ hr.bar {
     opacity: 1;
 }
 
-/*EMPRESA*/
+/*EMPRESA , TRABALHE*/
 
 .tabs .blue{
     background-color: #34A7E4;
@@ -597,3 +597,19 @@ hr.bar {
     padding: 0;
 }
 
+.tabs.job {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tabs.job .col1 {
+    margin-top: -100px;
+}
+
+.tabs.job i{
+    position: relative;
+    top: 10px;
+    background-color: #fff;
+    color: #34A7E4;
+    border: 1px solid #34A7E4;
+}

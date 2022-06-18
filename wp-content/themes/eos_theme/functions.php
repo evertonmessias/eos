@@ -145,7 +145,8 @@ add_action('is_page_solutions', 'is_page_solutions');
 function is_page_php()
 {
   if (
-    is_page('empresa')
+    is_page('empresa') ||
+    is_page('trabalhe')
   ) {
     return true;
   } else {
