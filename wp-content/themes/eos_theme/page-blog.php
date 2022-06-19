@@ -49,32 +49,35 @@
 
         <div class="col-lg-8 entries">
 
-        <?php
-				$args = array(
-					'post_type' => 'post',
-					'posts_per_page' => 5,
-          'order'   => 'DESC'
-				);
-				$loop = new WP_Query($args);
-				while ($loop->have_posts()) {
-					$loop->the_post();					
-				?>
+          <?php
+          $args = array(
+            'post_type' => 'post',
+            'posts_per_page' => 5,
+            'order'   => 'DESC'
+          );
+          $loop = new WP_Query($args);
+          while ($loop->have_posts()) {
+            $loop->the_post();
+          ?>
 
-          <article class="entry entry-single">
+            <article class="entry entry-single">
 
-            <h2 class="entry-title">
-              <a href="<?php echo get_the_permalink(); ?>"><?php echo get_the_title() ?></a>
-            </h2>
+              <h2 class="entry-title">
+                <a href="<?php echo get_the_permalink(); ?>"><?php echo get_the_title() ?></a>
+              </h2>
 
-            <div class="entry-content">
-              <?php echo search_tag(get_the_content()); ?>
-            </div>
+              <div class="entry-content">
+                <?php echo search_img(get_the_content()); ?>
+                <br>
+                <hr>
+                <?php echo wp_trim_words(get_the_content(), 30, ' ... <a href="' . get_the_permalink() . '">Leia Mais</a>'); ?>
+              </div>
 
-          </article><!-- End blog entry -->
+            </article><!-- End blog entry -->
 
           <?php }
-				wp_reset_postdata();
-				?>
+          wp_reset_postdata();
+          ?>
 
           <!--<div class="blog-pagination">
               <ul class="justify-content-center">
@@ -86,21 +89,11 @@
 
         </div><!-- End blog entries list -->
 
-
-
-
-
-
-
-
-
-
-
         <div class="col-lg-4 sideb">
 
           <div class="sidebar">
 
-            <h3 class="sidebar-title">Search</h3>
+            <!--<h3 class="sidebar-title">Busca</h3>
             <div class="sidebar-item search-form">
               <form action="">
                 <input type="text">
@@ -108,7 +101,7 @@
               </form>
             </div><!-- End sidebar search formn-->
 
-            <h3 class="sidebar-title">Categories</h3>
+            <!--<h3 class="sidebar-title">Categorias</h3>
             <div class="sidebar-item categories">
               <ul>
                 <li><a href="#">General <span>(25)</span></a></li>
@@ -120,37 +113,31 @@
               </ul>
             </div><!-- End sidebar categories-->
 
-            <h3 class="sidebar-title">Recent Posts</h3>
+            <h3 class="sidebar-title">Mais Posts</h3>
+            <hr>
             <div class="sidebar-item recent-posts">
-              <div class="post-item clearfix">
-                <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                <h4><a href="blog-single.html">Nihil blanditiis at in nihil autem</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div>
 
-              <div class="post-item clearfix">
-                <img src="assets/img/blog/blog-recent-2.jpg" alt="">
-                <h4><a href="blog-single.html">Quidem autem et impedit</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div>
+              <?php
+              $args = array(
+                'post_type' => 'post',
+                'posts_per_page' => 30,
+                'offset' => 5,
+                'order'   => 'DESC'
+              );
+              $loop = new WP_Query($args);
+              while ($loop->have_posts()) {
+                $loop->the_post();
+              ?>
 
-              <div class="post-item clearfix">
-                <img src="assets/img/blog/blog-recent-3.jpg" alt="">
-                <h4><a href="blog-single.html">Id quia et et ut maxime similique occaecati ut</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div>
+                <div class="post-item clearfix">
+                <?php echo search_img(get_the_content()); ?>
+                <p><a href="<?php echo get_the_permalink(); ?>"><?php echo get_the_title() ?></a></p>
+                </div>
+                <hr>
 
-              <div class="post-item clearfix">
-                <img src="assets/img/blog/blog-recent-4.jpg" alt="">
-                <h4><a href="blog-single.html">Laborum corporis quo dara net para</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div>
-
-              <div class="post-item clearfix">
-                <img src="assets/img/blog/blog-recent-5.jpg" alt="">
-                <h4><a href="blog-single.html">Et dolores corrupti quae illo quod dolor</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div>
+              <?php }
+              wp_reset_postdata();
+              ?>
 
             </div><!-- End sidebar recent posts-->
 

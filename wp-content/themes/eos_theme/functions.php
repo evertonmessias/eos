@@ -160,15 +160,13 @@ add_action('is_page_php', 'is_page_php');
 
 
 //***************SEARCH TAG FROM CONTENT */
-function search_tag($content)
+function search_img($content)
   {
       if (preg_match_all('/<img[^>]*src="([^"]+)"/i', $content, $matches)) {
-          foreach ($matches[1] as $key => $value) {
-              echo '<pre>';
-              echo $value;
-              echo '</pre>';
-          }
+        return $matches[0][0];
+      }else{
+        return "<img src='" . SITEPATH . "assets/img/semimagem.png'/>";
       }  
-      return $content;
+      
   }  
-  add_filter('search_tag', 'search_tag');
+  add_filter('search_img', 'search_img');

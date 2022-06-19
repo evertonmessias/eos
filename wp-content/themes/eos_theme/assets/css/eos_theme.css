@@ -619,3 +619,7 @@ hr.bar {
 .post{
     min-height: 500px;
 }
+
+.blog .sidebar-item .post-item img{
+    margin-right: 10px;
+}
