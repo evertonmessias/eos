@@ -156,3 +156,19 @@ function is_page_php()
   }
 }
 add_action('is_page_php', 'is_page_php');
+
+
+
+//***************SEARCH TAG FROM CONTENT */
+function search_tag($content)
+  {
+      if (preg_match_all('/<img[^>]*src="([^"]+)"/i', $content, $matches)) {
+          foreach ($matches[1] as $key => $value) {
+              echo '<pre>';
+              echo $value;
+              echo '</pre>';
+          }
+      }  
+      return $content;
+  }  
+  add_filter('search_tag', 'search_tag');
