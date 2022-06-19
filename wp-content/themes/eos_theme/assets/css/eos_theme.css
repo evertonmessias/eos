@@ -238,10 +238,6 @@ hr.bar {
 
 }
 
-.post #page{
-    min-height: 500px;
-}
-
 .footer .logo-footer img{
     width: 15em;
 }
@@ -570,7 +566,7 @@ hr.bar {
     opacity: 1;
 }
 
-/*EMPRESA , TRABALHE*/
+/*EMPRESA , TRABALHE, CONTATO*/
 
 .tabs .blue{
     background-color: #34A7E4;
@@ -616,4 +612,10 @@ hr.bar {
 .tabs.job .wpcf7-form-control-wrap{
     width: 100%;
     margin-bottom: 15px;
+}
+
+/*ETC, BLOG*/
+
+.post{
+    min-height: 500px;
 }
