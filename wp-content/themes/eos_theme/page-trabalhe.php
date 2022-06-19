@@ -71,7 +71,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col2">
-					<h5>< formulario ></h5>
+					<?php echo do_shortcode('[contact-form-7 id="339" title="Trabalhe Conosco"]'); ?>
 				</div>
 			</div>
 		</div>

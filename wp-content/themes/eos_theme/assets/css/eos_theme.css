@@ -613,3 +613,7 @@ hr.bar {
     color: #34A7E4;
     border: 1px solid #34A7E4;
 }
+.tabs.job .wpcf7-form-control-wrap{
+    width: 100%;
+    margin-bottom: 15px;
+}

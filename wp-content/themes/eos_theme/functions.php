@@ -146,7 +146,8 @@ function is_page_php()
 {
   if (
     is_page('empresa') ||
-    is_page('trabalhe')
+    is_page('trabalhe') ||
+    is_page('contato')
   ) {
     return true;
   } else {

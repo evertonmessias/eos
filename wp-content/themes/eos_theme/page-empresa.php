@@ -49,7 +49,7 @@
 					<div class="section-title">
 						<h4>QUEM SOMOS</h4>
 						<hr class="bar"><br>
-						<p class="justify">A EOS Organização e Sistemas Ltda. é uma empresa especializada em desenvolvimento de software de gestão. Estamos no mercado desde 1997 e atuamos nos segmentos de Saneamento Básico e Meio Ambiente. Nossos diretores possuem 30 anos de experiência na área de saneamento básico. Participamos de inúmeros projetos de desenvolvimento e implantação de sistemas. Possuímos vasta experiência e qualidade no suporte a clientes e na prestação de serviços. Somos uma empresa madura e preparada para atender os grandes desafios. Aliás, desafios nos motiva. Nos conduz a produzir conhecimento, a estudar cases e a fazer diferença para os nossos clientes. Contamos com especialistas em diversas áreas. Estamos preparados para transformar conhecimento em resultados. Somos reconhecidos nacionalmente pela qualidade, agilidade e estabilidade de nossas soluções. Estamos presentes em mais de 120 cidades em todo o Brasil.</p>
+						<?php the_content() ?>
 					</div>
 				</div>
 			</div>
