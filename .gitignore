@@ -2,14 +2,13 @@
 !wp-content/
 
 # ignore everything in the "wp-content" directory, except:
-# "plugins", "themes" , "uploads" directory
+# "plugins", "themes"
 wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
-!wp-content/uploads/
 
 # ignore wp-config.php
 wp-config.php
 
 # ignore files:
-wp-content/themes/eos_theme/assets/img/slide/home-1.webm
+wp-content/themes/eos_theme/assets/img/slide/*
