@@ -614,6 +614,10 @@ hr.bar {
     margin-bottom: 15px;
 }
 
+.tabs.job .wpcf7 input[type="file"] {
+    width: 100%;
+}
+
 /*ETC, BLOG*/
 
 .post{
