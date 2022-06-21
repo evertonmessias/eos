@@ -26,15 +26,54 @@
 				</div>
 			</div>
 
+			<!-- Slide 2 -->
+			<div class="carousel-item active">
+				<video autoplay muted loop class="vdesk">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2.webm" type="video/webm">
+				</video>
+				<!--<video autoplay muted loop class="vmobi">
+					<source src="<?php //echo SITEPATH; 
+									?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+				</video>-->
+				<div class="carousel-container">
+					<div class="container">
+						<h2 class="center animate__animated animate__fadeInDown">Simplifique a gestão<br>dos recursos da sua empresa
+</h2>
+						<br>
+						<hr class="bar"><br>
+						<p class="Center center animate__animated animate__fadeInUp">Somos especialistas na gestão de recursos de empresas de água e gás.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Slide 3 -->
+			<div class="carousel-item active">
+				<video autoplay muted loop class="vdesk">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3.webm" type="video/webm">
+				</video>
+				<!--<video autoplay muted loop class="vmobi">
+					<source src="<?php //echo SITEPATH; 
+									?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+				</video>-->
+				<div class="carousel-container">
+					<div class="container">
+						<h2 class="center animate__animated animate__fadeInDown">evite o desperdício de recursos<br>em sua empresa</h2>
+						<br>
+						<hr class="bar"><br>
+						<p class="Center center animate__animated animate__fadeInUp">Tenha o controle do consumo de energia elétrica,<br>água, gás e água quente e otimize seus processos internos.</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 
-		<!--<a class="carousel-control-prev" href="/#heroCarousel" role="button" data-bs-slide="prev">
+		<a class="carousel-control-prev" href="/#heroCarousel" role="button" data-bs-slide="prev">
 			<span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
 		</a>
 
 		<a class="carousel-control-next" href="/#heroCarousel" role="button" data-bs-slide="next">
 			<span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-		</a>-->
+		</a>
 
 	</div>
 </section><!-- End Hero -->
@@ -127,7 +166,7 @@
 						<div class="bar-center"></div>
 						<div class="bar-bottom">
 							<p>Gestão comercial completa para<br>
-							empresas de saneamento básico.</p>
+								empresas de saneamento básico.</p>
 						</div>
 					</a>
 				</li>
@@ -179,8 +218,8 @@
 						</div>
 					</a>
 				</li>
-			</ul>			
-			<a href="/contato" class="btn-tabs">Fale com um especialista</a>			
+			</ul>
+			<a href="/contato" class="btn-tabs">Fale com um especialista</a>
 		</div>
 	</section><!-- End Tabs Section -->
 
@@ -195,7 +234,7 @@
 			<div class="row">
 				<div class="col-lg-12 video-box" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/bg-video.png)">
 					<a href="https://www.youtube.com/watch?v=fSE6WSfDiwI" class="venobox btn-watch-video" data-vbtype="video" data-autoplay="true"><i class="ri-play-circle-line"></i></a>
-				</div>				
+				</div>
 			</div>
 
 		</div>
