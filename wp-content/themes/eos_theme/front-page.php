@@ -10,11 +10,11 @@
 			<!-- Slide 1 -->
 			<div class="carousel-item active">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-1.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/1.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
-									?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+									?>assets/img/slide/1_mobile.webm" type="video/webm">
 				</video>-->
 				<div class="carousel-container">
 					<div class="container">
@@ -27,13 +27,13 @@
 			</div>
 
 			<!-- Slide 2 -->
-			<div class="carousel-item active">
+			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-2.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/2.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
-									?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+									?>assets/img/slide/1_mobile.webm" type="video/webm">
 				</video>-->
 				<div class="carousel-container">
 					<div class="container">
@@ -47,13 +47,13 @@
 			</div>
 
 			<!-- Slide 3 -->
-			<div class="carousel-item active">
+			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/home-3.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/3.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
-									?>assets/img/slide/home-1_mobile.webm" type="video/webm">
+									?>assets/img/slide/1_mobile.webm" type="video/webm">
 				</video>-->
 				<div class="carousel-container">
 					<div class="container">
