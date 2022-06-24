@@ -7,10 +7,8 @@
 
 		<div class="carousel-inner" role="listbox">
 
-
-
-					<!-- Slide 1 -->
-					<div class="carousel-item">
+			<!-- Slide 1 -->
+			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
 					<source src="<?php echo SITEPATH; ?>assets/img/slide/1.webm" type="video/webm">
 				</video>
@@ -27,9 +25,6 @@
 					</div>
 				</div>
 			</div>
-
-
-
 
 			<!-- Slide 2 -->
 			<div class="carousel-item active">
@@ -49,7 +44,6 @@
 					</div>
 				</div>
 			</div>
-
 
 
 			<!-- Slide 3 -->
