@@ -7,10 +7,34 @@
 
 		<div class="carousel-inner" role="listbox">
 
-			<!-- Slide 1 -->
-			<div class="carousel-item active">
+
+
+					<!-- Slide 1 -->
+					<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
 					<source src="<?php echo SITEPATH; ?>assets/img/slide/1.webm" type="video/webm">
+				</video>
+				<!--<video autoplay muted loop class="vmobi">
+					<source src="<?php //echo SITEPATH; 
+									?>assets/img/slide/1_mobile.webm" type="video/webm">
+				</video>-->
+				<div class="carousel-container">
+					<div class="container">
+						<h2 class="center animate__animated animate__fadeInDown">Simplifique a gestão<br>dos recursos da sua empresa</h2>
+						<br>
+						<hr class="bar"><br>
+						<p class="Center center animate__animated animate__fadeInUp">Somos especialistas na gestão de recursos de empresas de água e gás.</p>
+					</div>
+				</div>
+			</div>
+
+
+
+
+			<!-- Slide 2 -->
+			<div class="carousel-item active">
+				<video autoplay muted loop class="vdesk">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/5.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
@@ -26,30 +50,12 @@
 				</div>
 			</div>
 
-			<!-- Slide 2 -->
-			<div class="carousel-item">
-				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/2.webm" type="video/webm">
-				</video>
-				<!--<video autoplay muted loop class="vmobi">
-					<source src="<?php //echo SITEPATH; 
-									?>assets/img/slide/1_mobile.webm" type="video/webm">
-				</video>-->
-				<div class="carousel-container">
-					<div class="container">
-						<h2 class="center animate__animated animate__fadeInDown">Simplifique a gestão<br>dos recursos da sua empresa
-</h2>
-						<br>
-						<hr class="bar"><br>
-						<p class="Center center animate__animated animate__fadeInUp">Somos especialistas na gestão de recursos de empresas de água e gás.</p>
-					</div>
-				</div>
-			</div>
+
 
 			<!-- Slide 3 -->
 			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/3.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/6.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
@@ -57,7 +63,7 @@
 				</video>-->
 				<div class="carousel-container">
 					<div class="container">
-						<h2 class="center animate__animated animate__fadeInDown">evite o desperdício de recursos<br>em sua empresa</h2>
+						<h2 class="center animate__animated animate__fadeInDown">Evite o desperdício de recursos<br>em sua empresa</h2>
 						<br>
 						<hr class="bar"><br>
 						<p class="Center center animate__animated animate__fadeInUp">Tenha o controle do consumo de energia elétrica,<br>água, gás e água quente e otimize seus processos internos.</p>
