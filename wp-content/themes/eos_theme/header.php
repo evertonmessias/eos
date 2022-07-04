@@ -73,6 +73,6 @@
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->
 
-			<a href="/contato" class="get-started-btn scrollto">Contato</a>
+			<a href="/contato" class="get-started-btn scrollto">FALE COM UM ESPECIALISTA</a>
 		</div>
 	</header><!-- End Header -->

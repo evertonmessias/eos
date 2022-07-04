@@ -18,10 +18,10 @@
 				</video>-->
 				<div class="carousel-container">
 					<div class="container">
-						<h2 class="center animate__animated animate__fadeInDown">NAUTILLUS</h2>
+						<h2 class="center animate__animated animate__fadeInDown">NAUTILUS</h2>
 						<br>
 						<hr class="bar"><br>
-						<p class="Center center animate__animated animate__fadeInUp">Faça uma gestão comercial da<br>sua concessionária de àgua e esgoto.</p>
+						<p class="Center center animate__animated animate__fadeInUp">Faça uma gestão comercial da<br>sua concessionária de água e esgoto.</p>
 					</div>
 				</div>
 			</div>

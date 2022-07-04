@@ -54,7 +54,7 @@
 			<div class="section-title">
 				<h2>Tenha dados claros sobre o<br>consumo de sua empresa.</h2>
 				<br>
-				<p class="center">Utilizando o software Grandes Consumidores será possível ter uma visão clara<br>dos gastos diários de sua empresa com água, energia, gás e água quente.</p>
+				<p class="center">Utilizando o software Pólis será possível ter uma visão clara<br>dos gastos diários de sua empresa com água, energia, gás e água quente.</p>
 			</div>
 			<br><br>
 
