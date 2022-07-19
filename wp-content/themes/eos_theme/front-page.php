@@ -29,7 +29,7 @@
 			<!-- Slide 2 -->
 			<div class="carousel-item active">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/5.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/2.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
@@ -49,7 +49,7 @@
 			<!-- Slide 3 -->
 			<div class="carousel-item">
 				<video autoplay muted loop class="vdesk">
-					<source src="<?php echo SITEPATH; ?>assets/img/slide/6.webm" type="video/webm">
+					<source src="<?php echo SITEPATH; ?>assets/img/slide/3.webm" type="video/webm">
 				</video>
 				<!--<video autoplay muted loop class="vmobi">
 					<source src="<?php //echo SITEPATH; 
