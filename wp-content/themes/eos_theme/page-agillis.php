@@ -70,7 +70,7 @@
 					<div class="section-title">
 						<h4>Gerenciamento de leituras</h4>
 						<hr class="bar"><br>
-						<p class="justify">O Agillis gerencia por completo todas as fases do processo. Desde a geração da leitura até a atualização dos dados da conta no sistema gestor da empresa.</p>
+						<p>O Agillis gerencia por completo todas as fases do processo. Desde a geração da leitura até a atualização dos dados da conta no sistema gestor da empresa.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col2">
@@ -93,7 +93,7 @@
 					<div class="section-title">
 						<h4>Fotos de leituras e concorrências</h4>
 						<hr class="bar"><br>
-						<p class="justify">Com o Agillis você tira fotos das leituras e ocorrências de campo, dando transparência ao processo de obtenção de leituras e faturamento.</p>
+						<p>Com o Agillis você tira fotos das leituras e ocorrências de campo, dando transparência ao processo de obtenção de leituras e faturamento.</p>
 					</div>
 				</div>
 			</div>
@@ -111,13 +111,13 @@
 					<i class="ri-layout-2-line"></i><br><br><br>
 					<h4>Online ou Offline?</h4>
 					<hr class="barr"><br>
-					<p class="justify">O Agillis pode trabalhar on-line ou off-line, de acordo com a demanda da concessionária ou da prestadora de serviço. Sua finalidade é ser ágil e preciso.</p>
+					<p>O Agillis pode trabalhar on-line ou off-line, de acordo com a demanda da concessionária ou da prestadora de serviço. Sua finalidade é ser ágil e preciso.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-archive-line"></i><br><br><br>
 					<h4>Tecnologia</h4>
 					<hr class="barr"><br>
-					<p class="justify">O Software tem embarcado em seu código fonte, tecnologia e conhecimento de mais de 30 anos de atuação no mercado de saneamento básico.</p>
+					<p>O Software tem embarcado em seu código fonte, tecnologia e conhecimento de mais de 30 anos de atuação no mercado de saneamento básico.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -128,13 +128,13 @@
 					<i class="ri-computer-line"></i><br><br><br>
 					<h4>Coletor, Smartphone ou PDA?</h4>
 					<hr class="barr"><br>
-					<p class="justify">Tanto faz! O Agillis pode ser utilizado em coletores de dados robustos, ou em smartphones e PDA’s. Também está homologado para as principais impressoras portáteis do mercado.</p>
+					<p>Tanto faz! O Agillis pode ser utilizado em coletores de dados robustos, ou em smartphones e PDA’s. Também está homologado para as principais impressoras portáteis do mercado.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-calendar-check-fill"></i><br><br><br>
 					<h4>Agilidade</h4>
 					<hr class="barr"><br>
-					<p class="justify">As rotas com os serviços (rol de leitura) são enviadas e executadas em tempo real ou remotamente. O leiturista tem acesso visual a toda a sua rota, possibilitando a escolha do melhor percurso no menor tempo.</p>
+					<p>As rotas com os serviços (rol de leitura) são enviadas e executadas em tempo real ou remotamente. O leiturista tem acesso visual a toda a sua rota, possibilitando a escolha do melhor percurso no menor tempo.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -145,13 +145,13 @@
 					<i class="ri-chat-3-line"></i><br><br><br>
 					<h4>Mais do que coleta de leitura</h4>
 					<hr class="barr"><br>
-					<p class="justify">O Agillis age como um fiscal, apontando ocorrências, permitindo a tomada de ações preventivas e corretivas. Emissão de faturas de débitos, avisos em geral e  certidão anual de quitação de débitos também fazem parte das rotinas do software.</p>
+					<p>O Agillis age como um fiscal, apontando ocorrências, permitindo a tomada de ações preventivas e corretivas. Emissão de faturas de débitos, avisos em geral e  certidão anual de quitação de débitos também fazem parte das rotinas do software.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-home-line"></i><br><br><br>
 					<h4>Mobilidade</h4>
 					<hr class="barr"><br>
-					<p class="justify">Gerenciamento on-line das equipes externas, facilitando a empresa mover-se para perto do cliente, diminuindogastos com deslocamentos, aumentando a eficiência  e fidelizando a marca.</p>
+					<p>Gerenciamento on-line das equipes externas, facilitando a empresa mover-se para perto do cliente, diminuindogastos com deslocamentos, aumentando a eficiência  e fidelizando a marca.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>

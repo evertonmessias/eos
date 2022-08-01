@@ -71,7 +71,7 @@
 					<div class="section-title">
 						<h4>Informações facilmente visualizadas</h4>
 						<hr class="bar"><br>
-						<p class="justify">O software foi desenvolvido para a fácil compreensão do que está acontecendo e quais os pontos que podem ser melhorados no dia a dia.</p>
+						<p>O software foi desenvolvido para a fácil compreensão do que está acontecendo e quais os pontos que podem ser melhorados no dia a dia.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col2">
@@ -94,7 +94,7 @@
 					<div class="section-title">
 						<h4>Controle Financeiro</h4>
 						<hr class="bar"><br>
-						<p class="justify">Muitas empresas deixam de desenvolver novos projetos por medo dos gastos, agora é possível saber exatamente quanto irá gastar e fazer o planejamento financeiro completo.</p>
+						<p>Muitas empresas deixam de desenvolver novos projetos por medo dos gastos, agora é possível saber exatamente quanto irá gastar e fazer o planejamento financeiro completo.</p>
 					</div>
 				</div>
 			</div>

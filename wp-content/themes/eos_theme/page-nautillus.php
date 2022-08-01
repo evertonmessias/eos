@@ -72,7 +72,7 @@
 					<div class="section-title">
 						<h4>Gestão automatizada</h4>
 						<hr class="bar"><br>
-						<p class="justify">O Nautillus automatiza a gestão da concessionária de forma intuitiva, por meio de sua estrutura inteligente e dinâmica possibilitando gerir clientes, consumos, cobrança, fiscalização, arrecadação, serviços, atendimento ao cliente, indicadores, contabilidade e jurídico.</p>
+						<p>O Nautillus automatiza a gestão da concessionária de forma intuitiva, por meio de sua estrutura inteligente e dinâmica possibilitando gerir clientes, consumos, cobrança, fiscalização, arrecadação, serviços, atendimento ao cliente, indicadores, contabilidade e jurídico.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col2">
@@ -95,7 +95,7 @@
 					<div class="section-title">
 						<h4>Tenha uma gestão eficaz em<br>todos os seus processos</h4>
 						<hr class="bar"><br>
-						<p class="justify">Com o Nautillus você define as regras de funcionamento (metodologia), define quem implanta, controla e mantém (responsáveis), assegura a execução conforme os padrões (controle), previne e antecipa situações indesejadas (proatividade), identifica onde a prática é aplicada (abrangência), mostra desde quando e com que periodicidade está implantada a ação (continuidade), permite avaliar e melhorar os processos (refinamento), assegura a relação entre asáreas e com as partes interessadas, processos, práticas, estratégias e princípios (integração) e mede os benefícios trazidos (resultados).</p>
+						<p>Com o Nautillus você define as regras de funcionamento (metodologia), define quem implanta, controla e mantém (responsáveis), assegura a execução conforme os padrões (controle), previne e antecipa situações indesejadas (proatividade), identifica onde a prática é aplicada (abrangência), mostra desde quando e com que periodicidade está implantada a ação (continuidade), permite avaliar e melhorar os processos (refinamento), assegura a relação entre asáreas e com as partes interessadas, processos, práticas, estratégias e princípios (integração) e mede os benefícios trazidos (resultados).</p>
 					</div>
 				</div>
 			</div>
@@ -113,13 +113,13 @@
 					<i class="ri-home-line"></i><br><br><br>
 					<h4>Tecnologia Rebusta</h4>
 					<hr class="barr"><br>
-					<p class="justify">Software confiável e estável, 30 anos de mercado, sendo regularmente evoluído para melhor atender nossos clientes. Desenvolvido em arquitetura de multicamadas e com processo ágil de implementação.</p>
+					<p>Software confiável e estável, 30 anos de mercado, sendo regularmente evoluído para melhor atender nossos clientes. Desenvolvido em arquitetura de multicamadas e com processo ágil de implementação.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-computer-line"></i><br><br><br>
 					<h4>Know How</h4>
 					<hr class="barr"><br>
-					<p class="justify">Sabemos como e porque fazer, isso tonar a solução uma ferramenta especializada e inovadora, capaz de aumentar consideravelmente a eficácia dos processos.</p>
+					<p>Sabemos como e porque fazer, isso tonar a solução uma ferramenta especializada e inovadora, capaz de aumentar consideravelmente a eficácia dos processos.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -130,13 +130,13 @@
 					<i class="ri-archive-line"></i><br><br><br>
 					<h4>Gestão de Informação</h4>
 					<hr class="barr"><br>
-					<p class="justify">Visibilidade de informações. Saiba com exatidão dados cruciais para o seu negócio. Dessa forma, planeje com mais assertividade e alcance maior performance.</p>
+					<p>Visibilidade de informações. Saiba com exatidão dados cruciais para o seu negócio. Dessa forma, planeje com mais assertividade e alcance maior performance.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-calendar-check-fill"></i><br><br><br>
 					<h4>Informações Compartilhadas</h4>
 					<hr class="barr"><br>
-					<p class="justify">Compartilhe informações entre sua equipe de maneira rápida e automatizada. Reduzindo custos e simplificando os processos.</p>
+					<p>Compartilhe informações entre sua equipe de maneira rápida e automatizada. Reduzindo custos e simplificando os processos.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>
@@ -147,13 +147,13 @@
 					<i class="ri-chat-3-line"></i><br><br><br>
 					<h4>Interações</h4>
 					<hr class="barr"><br>
-					<p class="justify">Fácil integração a outros sistemas, por intermédio de componentes Web Service ou por rotinas desenvolvidas para este fim.</p>
+					<p>Fácil integração a outros sistemas, por intermédio de componentes Web Service ou por rotinas desenvolvidas para este fim.</p>
 				</div>
 				<div class="col-lg-4 col">
 					<i class="ri-layout-2-line"></i><br><br><br>
 					<h4>100% costumizável</h4>
 					<hr class="barr"><br>
-					<p class="justify">Você pode personalizar o sistema com os relatórios e rotinas que mais se adequam ao seu uso. Aumentando assim sua produtividade e melhorando a usabilidade.</p>
+					<p>Você pode personalizar o sistema com os relatórios e rotinas que mais se adequam ao seu uso. Aumentando assim sua produtividade e melhorando a usabilidade.</p>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>

@@ -70,7 +70,7 @@
 					<div class="section-title">
 						<h4>Informações claras:</h4>
 						<hr class="bar"><br>
-						<p class="justify">O Zápia oferece informações claras e objetivas para quem está utilizando o produto. Nele será possível, com facilidade, entender quais pontosgeram gastos maiores em sua casa. Tudo é informado com muita clareza.</p>
+						<p>O Zápia oferece informações claras e objetivas para quem está utilizando o produto. Nele será possível, com facilidade, entender quais pontosgeram gastos maiores em sua casa. Tudo é informado com muita clareza.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col2">
@@ -93,7 +93,7 @@
 					<div class="section-title">
 						<h4>Monitoramento constante.</h4>
 						<hr class="bar"><br>
-						<p class="justify">Nossa equipe deixa o equipamento totalmente organizado para que possa ser feito o monitoramento diário do consumo.</p>
+						<p>Nossa equipe deixa o equipamento totalmente organizado para que possa ser feito o monitoramento diário do consumo.</p>
 						<br>
 					</div>
 				</div>

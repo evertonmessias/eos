@@ -58,13 +58,13 @@
 				<div class="col-lg-6 blue col1">
 					<div class="section-title">
 						<h4>Missão</h4>
-						<p class="justify">Oferecer, de forma sustentável, soluções de softwares e serviços eficazes,<br>seguros e rentáveis, que melhorem os resultados de nossos clientes.</p>
+						<p>Oferecer, de forma sustentável, soluções de softwares e serviços eficazes,<br>seguros e rentáveis, que melhorem os resultados de nossos clientes.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 blue col2">
 					<div class="section-title">
 						<h4>Visão</h4>
-						<p class="justify">Ser reconhecida no mercado pela excelência e inovação.</p>
+						<p>Ser reconhecida no mercado pela excelência e inovação.</p>
 					</div>
 				</div>
 			</div>
@@ -74,7 +74,7 @@
 					<div class="section-title">
 						<h4>ÉTICA</h4>
 						<hr class="bar"><br>
-						<p class="justify">Honestidade e confiança. Relações de trabalho são como relações pessoais, precisam ser baseadas em pilares fortes. Não seriamos nada sem a confiança de nossos parceiros e clientes, e só adquirimos essa relação com muita honestidade e seriedade no trabalho.</p>
+						<p>Honestidade e confiança. Relações de trabalho são como relações pessoais, precisam ser baseadas em pilares fortes. Não seriamos nada sem a confiança de nossos parceiros e clientes, e só adquirimos essa relação com muita honestidade e seriedade no trabalho.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 img col2">
@@ -89,7 +89,7 @@
 					<div class="section-title">
 						<h4>ORGANIZAÇÃO</h4>
 						<hr class="bar"><br>
-						<p class="justify">Temos compromisso com a melhoria e foco nos clientes. Trabalhamos incessantemente para encontrar sempre as melhores práticas de trabalho, gerando os melhores resultados para os nossos clientes.</p>
+						<p>Temos compromisso com a melhoria e foco nos clientes. Trabalhamos incessantemente para encontrar sempre as melhores práticas de trabalho, gerando os melhores resultados para os nossos clientes.</p>
 					</div>
 				</div>				
 			</div>
@@ -98,7 +98,7 @@
 					<div class="section-title">
 						<h4>SIMPLICIDADE</h4>
 						<hr class="bar"><br>
-						<p class="justify">Agir simples para agir certo. O foco na produtividade, velocidade e qualidade são garantias de trabalho bem feito. Portanto, acima de qualquer coisa, foco nas ações corretas, é assim que trabalhamos.</p>
+						<p>Agir simples para agir certo. O foco na produtividade, velocidade e qualidade são garantias de trabalho bem feito. Portanto, acima de qualquer coisa, foco nas ações corretas, é assim que trabalhamos.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 img col2">

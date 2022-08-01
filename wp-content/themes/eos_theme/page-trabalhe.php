@@ -53,19 +53,19 @@
 						<div class="row">
 							<div class="col-lg-2"><i class="ri-number-1"></i></div>
 							<div class="col-lg-10">
-								<p class="justify">Somos uma empresa de Consultoria especializada em desenvolvimento de software de gestão e que busca jovens talentos.</p>
+								<p>Somos uma empresa de Consultoria especializada em desenvolvimento de software de gestão e que busca jovens talentos.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-2"><i class="ri-number-2"></i></div>
 							<div class="col-lg-10">
-								<p class="justify">Preencha o formulário ao lado com seus dados e nos envie seu currículo. Conforme surgirem as oportunidades, entramos em contato.</p>
+								<p>Preencha o formulário ao lado com seus dados e nos envie seu currículo. Conforme surgirem as oportunidades, entramos em contato.</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-2"><i class="ri-number-3"></i></div>
 							<div class="col-lg-10">
-								<p class="justify">Ficamos muito felizes pelo seu interesse em trabalhar conosco e será um prazer conhecê-lo. Boa sorte!</p>
+								<p>Ficamos muito felizes pelo seu interesse em trabalhar conosco e será um prazer conhecê-lo. Boa sorte!</p>
 							</div>
 						</div>
 					</div>
