@@ -233,7 +233,7 @@
 
 			<div class="row">
 				<div class="col-lg-12 video-box" style="background-image: url(<?php echo SITEPATH; ?>assets/img/slide/bg-video.png)">
-					<a href="https://www.youtube.com/watch?v=fSE6WSfDiwI" class="venobox btn-watch-video" data-vbtype="video" data-autoplay="true"><i class="ri-play-circle-line"></i></a>
+					<a href="https://youtu.be/8AzkVm0OUq4" class="venobox btn-watch-video" data-vbtype="video" data-autoplay="true"><i class="ri-play-circle-line"></i></a>
 				</div>
 			</div>
 

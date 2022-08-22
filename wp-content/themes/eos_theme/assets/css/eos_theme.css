@@ -198,18 +198,12 @@ hr.bar {
   }
 
   .services .video-box .btn-watch-video{
-    margin: 0;padding: 0;
     position: absolute;
-    width: 80px;
-    height: 80px;
-    left: 26%;
-    top: 38%;
+    left: 24%;
+    top: 5%;
   }
 
   .services .video-box .btn-watch-video i {
-    position: relative;
-    margin: 0;padding: 0;
-    top: -20px;
     color: rgba(255,255,255,0.5);
     font-size: 82px;
     font-weight: 900;
